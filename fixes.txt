@@ -6,3 +6,4 @@
  BBG r2h
  heelo buddy
  i am  in the game
+ pinkmode fix - one more bug
